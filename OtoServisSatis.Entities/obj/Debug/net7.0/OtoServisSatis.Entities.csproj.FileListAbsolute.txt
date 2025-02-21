@@ -1,0 +1,33 @@
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.deps.json
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfoInputs.cache
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfo.cs
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\refint\OtoServisSatis.Entities.dll
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\ref\OtoServisSatis.Entities.dll
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.deps.json
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfoInputs.cache
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfo.cs
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\refint\OtoServisSatis.Entities.dll
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\ref\OtoServisSatis.Entities.dll
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.deps.json
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfoInputs.cache
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfo.cs
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\refint\OtoServisSatis.Entities.dll
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\ref\OtoServisSatis.Entities.dll

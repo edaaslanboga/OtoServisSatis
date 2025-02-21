@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OtoServisSatis.Data",
+    "\\OtoServisSatis.Data\\Abstract",
+    "\\OtoServisSatis.Data\\Concrete",
+    "\\OtoServisSatis.Service",
+    "\\OtoServisSatis.Service\\Concrete",
+    "\\OtoServisSatis.WebUI"
+  ],
+  "SelectedNode": "\\OtoServisSatis.Data\\Concrete\\Repository.cs",
+  "PreviewInSolutionExplorer": false
+}

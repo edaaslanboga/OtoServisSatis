@@ -1,0 +1,51 @@
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.deps.json
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.runtimeconfig.json
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.dll
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.pdb
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.csproj.AssemblyReference.cache
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.AssemblyInfoInputs.cache
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.AssemblyInfo.cs
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.csproj.CoreCompileInputs.cache
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServi.EA7C6928.Up2Date
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.dll
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\refint\OtoServisSatis.Data.dll
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.pdb
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.genruntimeconfig.cache
+C:\Users\ATB YAZİLİM\Source\Repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\ref\OtoServisSatis.Data.dll
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.deps.json
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.runtimeconfig.json
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.dll
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.pdb
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.csproj.AssemblyReference.cache
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.AssemblyInfoInputs.cache
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.AssemblyInfo.cs
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.csproj.CoreCompileInputs.cache
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServi.EA7C6928.Up2Date
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.dll
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\refint\OtoServisSatis.Data.dll
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.pdb
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.genruntimeconfig.cache
+C:\Users\ATB\source\repos\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\ref\OtoServisSatis.Data.dll
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.deps.json
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.runtimeconfig.json
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.dll
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Data.pdb
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.csproj.AssemblyReference.cache
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.AssemblyInfoInputs.cache
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.AssemblyInfo.cs
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.csproj.CoreCompileInputs.cache
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServi.EA7C6928.Up2Date
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.dll
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\refint\OtoServisSatis.Data.dll
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.pdb
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\OtoServisSatis.Data.genruntimeconfig.cache
+C:\Users\edaas\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Data\obj\Debug\net7.0\ref\OtoServisSatis.Data.dll
